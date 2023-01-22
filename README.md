@@ -1,1 +1,1 @@
-"# squash-commits-demo" 
+# squash-commits-demo
